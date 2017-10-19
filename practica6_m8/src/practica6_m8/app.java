@@ -8,6 +8,8 @@ public class app {
 		System.out.println("holaaa");
 		
 		System.out.println("estic fent una modificacio");
+
+		System.out.println("modificant des de fora l'ide");
 	}
 
 }
