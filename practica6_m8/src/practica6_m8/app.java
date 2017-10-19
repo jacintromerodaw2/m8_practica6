@@ -6,6 +6,8 @@ public class app {
 		// TODO Auto-generated method stub
 		
 		System.out.println("holaaa");
+		
+		System.out.println("estic fent una modificacio");
 	}
 
 }
