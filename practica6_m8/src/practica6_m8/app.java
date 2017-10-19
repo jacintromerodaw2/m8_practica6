@@ -10,6 +10,8 @@ public class app {
 		System.out.println("estic fent una modificacio");
 
 		System.out.println("modificant des de fora l'ide");
+		
+		System.out.println("modificat des de github");
 	}
 
 }
